@@ -1,3 +1,9 @@
-Hi I am Sujal. I am trying to learn C++ and Molecular Dynamics. My ultimate goal is to write MD programms in C++. <br>.
+# 👋 Hi, I'm Sujal!
 
-If you have any suggestion please tell.
+🔬 Master's Student in Theoretical Chemistry & Computational Modelling <br>
+💻 Exploring biomolecular simulations & molecular dynamics analysis
+
+## 🚀 What I'm Learning
+
+- CALVADOS – Running biomolecular simulations
+- MDAnalysis – Analyzing simulation output
